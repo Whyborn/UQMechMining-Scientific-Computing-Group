@@ -1,0 +1,17 @@
+\frametitle{Conclusions}
+\begin{itemize}
+\item Command line tools are very powerful, learn to use them!
+\item Get comfortable with a good text editor
+\item Interpreted languages (Python,R) are great for scientific computing
+\begin{itemize}
+\item As long as you use the datastructures properly!
+\item Both python and R come packed with builtin functions too
+\end{itemize}
+\item If you need to fall back on some low-level programming, (C etc.) tools exist to integrate them into higher level languages.
+\end{itemize}
+
+%\begin{scriptsize}
+%\begin{lstlisting}
+%\end{lstlisting}
+%\end{scriptsize}
+
